@@ -17,7 +17,6 @@ Tujuan utama project ini adalah membangun infrastruktur jaringan yang tahan bant
 ## 🏗️ Network Architecture & Topology
 
 ![Topology Diagram](path/to/your-topology-image.png)
-*(Note: Upload screenshot topologi EVE-NG lu di sini)*
 
 Desain jaringan menggunakan model **Hierarchical Network Design** (Core, Distribution, Access, Edge):
 
