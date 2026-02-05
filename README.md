@@ -1102,16 +1102,14 @@ diagnose debug flow               # Traffic debugging
 
 ## 📄 License
 
-This project is licensed under the **MIT License** - see [LICENSE](LICENSE) file for details.
+
 
 ---
 
 ## 📞 Support & Contact
 
 For questions or issues:
-- 📧 Email: netadmin@university.edu
-- 💬 Discord: [Network Lab Server]
-- 📖 Documentation Wiki: [Internal GitLab]
+- 📧 Email: suhenyu@gmail.com
 
 ---
 
